@@ -1,0 +1,21 @@
+{
+  "name": "playwright-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nu1silva/playwright-test-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nu1silva/playwright-test-example/issues"
+  },
+  "homepage": "https://github.com/nu1silva/playwright-test-example#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.1"
+  }
+}
